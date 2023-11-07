@@ -1,5 +1,5 @@
-import Weather from "./Weather"
-import "./App.css";
+import Weather from "./Weather";
+import "./index.css";
 
 function App() {
   return (
