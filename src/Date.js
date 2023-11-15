@@ -12,8 +12,8 @@ export default function Date(prosp){
     "Saturday",
   ];
   let day = days[prosp.date.getDay()];
-  let hours = props.date.getHours();
-  let minutes = props.date.getMinutes();
+  let hours = prosp.date.getHours();
+  let minutes = prosp.date.getMinutes();
   if (minutes < 10) {
     minutes = `0${minutes}`;
  }
