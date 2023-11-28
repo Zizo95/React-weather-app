@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url(./images/default.jpg);
+  background-image: url(./sam-quek-0qHN3cX1M0U-unsplash.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 
@@ -14,4 +14,7 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.weather border #dadde1 rounded{
+  width: 50%;
 }
